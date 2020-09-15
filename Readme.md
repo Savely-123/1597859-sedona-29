@@ -1,7 +1,7 @@
 ﻿# Личный проект «Седона»
 
 * Студент: [Савелий Зайцев](https://up.htmlacademy.ru/htmlcss/29/user/1597859).
-* Наставник: [Алим Нагоев](https://htmlacademy.ru/profile/id911531)
+* Наставник: [Алим Нагоев](https://htmlacademy.ru/profile/id911531).
 
 ---
 
